@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from crane_interfaces/msg/CraneReference.msg
+// generated code does not contain a copyright notice
+
+
+module crane_interfaces {
+  module msg {
+    struct CraneReference {
+      double crane_cylinder_velocity_reference;
+    };
+  };
+};

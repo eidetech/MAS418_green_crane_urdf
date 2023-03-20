@@ -1,0 +1,4 @@
+Invoking command in '/home/marcus/ros2_ws/build/xacro': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marcus/ros2_ws/build/xacro -- -j8 -l8
+Invoked command in '/home/marcus/ros2_ws/build/xacro' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marcus/ros2_ws/build/xacro -- -j8 -l8
+Invoking command in '/home/marcus/ros2_ws/build/xacro': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marcus/ros2_ws/build/xacro
+Invoked command in '/home/marcus/ros2_ws/build/xacro' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marcus/ros2_ws/build/xacro

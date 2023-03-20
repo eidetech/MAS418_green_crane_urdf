@@ -1,0 +1,65 @@
+[0.009s] Invoking command in '/home/marcus/ros2_ws/build/urdf_tutorial': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/marcus/ros2_ws/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/marcus/ros2_ws/install/urdf_tutorial
+[0.056s] -- The C compiler identification is GNU 11.3.0
+[0.106s] -- The CXX compiler identification is GNU 11.3.0
+[0.113s] -- Detecting C compiler ABI info
+[0.172s] -- Detecting C compiler ABI info - done
+[0.179s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.180s] -- Detecting C compile features
+[0.180s] -- Detecting C compile features - done
+[0.183s] -- Detecting CXX compiler ABI info
+[0.250s] -- Detecting CXX compiler ABI info - done
+[0.258s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.258s] -- Detecting CXX compile features
+[0.259s] -- Detecting CXX compile features - done
+[0.261s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.415s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.490s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.550s] -- Configuring done
+[0.553s] -- Generating done
+[0.553s] -- Build files have been written to: /home/marcus/ros2_ws/build/urdf_tutorial
+[0.558s] Invoked command in '/home/marcus/ros2_ws/build/urdf_tutorial' returned '0': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/marcus/ros2_ws/src/urdf_tutorial -DCMAKE_INSTALL_PREFIX=/home/marcus/ros2_ws/install/urdf_tutorial
+[0.559s] Invoking command in '/home/marcus/ros2_ws/build/urdf_tutorial': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/marcus/ros2_ws/build/urdf_tutorial -- -j8 -l8
+[0.587s] Invoked command in '/home/marcus/ros2_ws/build/urdf_tutorial' returned '0': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/marcus/ros2_ws/build/urdf_tutorial -- -j8 -l8
+[0.607s] Invoking command in '/home/marcus/ros2_ws/build/urdf_tutorial': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/marcus/ros2_ws/build/urdf_tutorial
+[0.613s] -- Install configuration: ""
+[0.613s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images
+[0.613s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/multipleshapes.png
+[0.613s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/myfirst.png
+[0.614s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/visual.png
+[0.614s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/flexible.png
+[0.614s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/materials.png
+[0.614s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/images/origins.png
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip_color.png
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger.dae
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip.dae
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_color.png
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/rviz
+[0.615s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/rviz/urdf.rviz
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[0.616s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[0.617s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[0.618s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[0.618s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[0.618s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[0.618s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[0.618s] -- Installing: /home/marcus/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[0.620s] Invoked command in '/home/marcus/ros2_ws/build/urdf_tutorial' returned '0': AMENT_PREFIX_PATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui:/home/marcus/ros2_ws/install/xacro:/home/marcus/ros2_ws/install/joint_state_publisher:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/marcus/ros2_ws/install/xacro:/opt/ros/humble PATH=/home/marcus/ros2_ws/install/xacro/bin:${PATH} PYTHONPATH=/home/marcus/ros2_ws/install/joint_state_publisher_gui/lib/python3.10/site-packages:/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages:/home/marcus/ros2_ws/install/joint_state_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/marcus/ros2_ws/build/urdf_tutorial

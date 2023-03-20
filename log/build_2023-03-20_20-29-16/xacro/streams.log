@@ -1,0 +1,77 @@
+[0.237s] Invoking command in '/home/marcus/ros2_ws/build/xacro': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marcus/ros2_ws/src/xacro -DCMAKE_INSTALL_PREFIX=/home/marcus/ros2_ws/install/xacro
+[0.248s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.433s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.988s] -- Configuring done
+[0.992s] -- Generating done
+[0.993s] -- Build files have been written to: /home/marcus/ros2_ws/build/xacro
+[1.078s] Invoked command in '/home/marcus/ros2_ws/build/xacro' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/marcus/ros2_ws/src/xacro -DCMAKE_INSTALL_PREFIX=/home/marcus/ros2_ws/install/xacro
+[1.080s] Invoking command in '/home/marcus/ros2_ws/build/xacro': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marcus/ros2_ws/build/xacro -- -j8 -l8
+[1.122s] Built target ament_cmake_python_copy_xacro_setup
+[1.122s] Built target ament_cmake_python_copy_xacro
+[1.340s] running install_scripts
+[1.341s] running egg_info
+[1.342s] creating xacro.egg-info
+[1.342s] writing xacro.egg-info/PKG-INFO
+[1.342s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.342s]   warnings.warn(
+[1.343s] writing dependency_links to xacro.egg-info/dependency_links.txt
+[1.343s] writing entry points to xacro.egg-info/entry_points.txt
+[1.343s] writing top-level names to xacro.egg-info/top_level.txt
+[1.343s] writing manifest file 'xacro.egg-info/SOURCES.txt'
+[1.345s] reading manifest file 'xacro.egg-info/SOURCES.txt'
+[1.345s] writing manifest file 'xacro.egg-info/SOURCES.txt'
+[1.363s] running egg_info
+[1.364s] writing xacro.egg-info/PKG-INFO
+[1.364s] writing dependency_links to xacro.egg-info/dependency_links.txt
+[1.364s] writing entry points to xacro.egg-info/entry_points.txt
+[1.364s] writing top-level names to xacro.egg-info/top_level.txt
+[1.366s] reading manifest file 'xacro.egg-info/SOURCES.txt'
+[1.366s] writing manifest file 'xacro.egg-info/SOURCES.txt'
+[1.368s] Installing xacro script to scripts
+[1.370s] Built target ament_cmake_python_build_xacro_egg
+[1.393s] Built target ament_cmake_python_build_xacro_scripts
+[1.402s] Invoked command in '/home/marcus/ros2_ws/build/xacro' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/marcus/ros2_ws/build/xacro -- -j8 -l8
+[1.426s] Invoking command in '/home/marcus/ros2_ws/build/xacro': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marcus/ros2_ws/build/xacro
+[1.431s] -- Install configuration: ""
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/completion.bash
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/pythonpath.sh
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/pythonpath.dsv
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info/top_level.txt
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info/entry_points.txt
+[1.432s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info/dependency_links.txt
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info/SOURCES.txt
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro-2.0.9-py3.10.egg-info/PKG-INFO
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/lib/xacro/
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/lib/xacro//xacro
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/xmlutils.py
+[1.433s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/cli.py
+[1.434s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/substitution_args.py
+[1.434s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/color.py
+[1.434s] -- Installing: /home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/__init__.py
+[1.471s] Listing '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro'...
+[1.471s] Compiling '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/__init__.py'...
+[1.471s] Compiling '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/cli.py'...
+[1.471s] Compiling '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/color.py'...
+[1.471s] Compiling '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/substitution_args.py'...
+[1.471s] Compiling '/home/marcus/ros2_ws/install/xacro/local/lib/python3.10/dist-packages/xacro/xmlutils.py'...
+[1.476s] -- Installing: /home/marcus/ros2_ws/install/xacro/bin/
+[1.476s] -- Installing: /home/marcus/ros2_ws/install/xacro/bin//xacro
+[1.476s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/ament_index/resource_index/package_run_dependencies/xacro
+[1.476s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/ament_index/resource_index/parent_prefix_path/xacro
+[1.476s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/ament_prefix_path.sh
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/ament_prefix_path.dsv
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/path.sh
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/environment/path.dsv
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/local_setup.bash
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/local_setup.sh
+[1.477s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/local_setup.zsh
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/local_setup.dsv
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/package.dsv
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/ament_index/resource_index/packages/xacro
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/cmake/xacro-extras.cmake
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/cmake/xacroConfig.cmake
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/cmake/xacroConfig-version.cmake
+[1.478s] -- Installing: /home/marcus/ros2_ws/install/xacro/share/xacro/package.xml
+[1.480s] Invoked command in '/home/marcus/ros2_ws/build/xacro' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/marcus/ros2_ws/build/xacro

@@ -1,0 +1,10 @@
+[0.000000] (-) TimerEvent: {}
+[0.000521] (-) JobUnselected: {'identifier': 'crane_interfaces'}
+[0.000552] (-) JobUnselected: {'identifier': 'joint_state_publisher'}
+[0.000853] (-) JobUnselected: {'identifier': 'joint_state_publisher_gui'}
+[0.000896] (-) JobUnselected: {'identifier': 'urdf_tutorial'}
+[0.000946] (-) JobUnselected: {'identifier': 'xacro'}
+[0.001010] (crane_cpp) JobQueued: {'identifier': 'crane_cpp', 'dependencies': OrderedDict([('crane_interfaces', '/home/marcus/ros2_ws/install/crane_interfaces')])}
+[0.001054] (crane_cpp) JobStarted: {'identifier': 'crane_cpp'}
+[0.073803] (crane_cpp) JobEnded: {'identifier': 'crane_cpp', 'rc': 1}
+[0.084382] (-) EventReactorShutdown: {}
